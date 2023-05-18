@@ -1,5 +1,5 @@
 
-
+# https://www.learner.org/series/learning-math-patterns-functions-and-algebra/patterns-in-context/part-d-counting-stairs-60-minutes/#:~:text=A%20way%20to%20build%20a,1)%20%2F%202%20for%201.
 def staircase_finder(lst):
     # It would be a waste of time of making all the subsets and then find out that it doesn’t make a staircase. Can we make the function more efficient in that regard?
     # We could add a check that returns false by using the relationship between the number of blocks in a staircase and the height of a staircase.
